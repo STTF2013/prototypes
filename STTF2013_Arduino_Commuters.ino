@@ -1,4 +1,4 @@
-/This is the main window with all code
+//This is the main window with all code
 
 #include <LiquidCrystal.h>
 #include <Servo.h> 
